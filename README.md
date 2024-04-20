@@ -1,2 +1,2 @@
 # prime-jd.github.io
-site
+[link](https://prime-jd.github.io/)
